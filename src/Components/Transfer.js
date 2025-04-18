@@ -69,9 +69,10 @@ function Transfer() {
             className="bg-transparent focus:outline-none text-[#343C6A] flex-1 w-full"
             defaultValue="525.50"
           />
-          <button className="flex items-center justify-center bg-[#343C6A] text-white px-4 py-2 rounded-full w-full sm:w-auto mt-2 sm:mt-0">
-            Send <Send className="ml-2 w-4 h-4" />
-          </button>
+        <button className="flex items-center justify-center bg-[#343C6A] hover:bg-[#007aff] text-white px-4 py-2 rounded-full w-full sm:w-auto mt-2 sm:mt-0 transition duration-300 transform hover:scale-105">
+  Send <Send className="ml-2 w-4 h-4" />
+</button>
+
         </div>
       </div>
     </div>
