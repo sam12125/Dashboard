@@ -13,7 +13,6 @@ function Transaction() {
 
       {/* Transaction Card */}
       <div className="bg-white shadow-md rounded-[20px] p-4 flex flex-col gap-4">
-        {/* Transaction Item Component */}
         {[
           {
             icon: Icon2,

@@ -5,7 +5,7 @@ import Group4 from '../assets/Group 4.png';
 import MaskGroup from '../assets/Mask Group.png';
 import SearchIcon from '../assets/magnifying-glass 1.png';
 import Logo from '../assets/Logo.png';
-import { Menu, X } from 'lucide-react'; // Optional: use your own icons or this
+import { Menu, X } from 'lucide-react';
 
 function Navbar() {
   const navigate = useNavigate();
